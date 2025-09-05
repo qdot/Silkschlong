@@ -27,3 +27,9 @@ Should work on Windows x64 or Linux/Steam Deck if you know how to load BepInEx m
 ## How to compile
 
 This should "just work" as long as you have Silksong installed at the default location (`C:\Program Files (x86)\Steam\steamapps\common\Hollow Knight Silksong`) with BepInEx already installed. Note that `Buttplug.dll` dependency may need to be hand copied because I'm still figuring out how Rider works with dependencies and mods.
+
+## Credits
+
+Thanks to #danatron1 for making [Buttplug Knight](https://github.com/danatron1/ButtplugKnight) in the first place. Please also make Buttplug Song. I really don't want to have to maintain this mod. I'm just doing it for the attention.
+
+Thanks to @x753 for their [Free Compass Silksong Mod](https://github.com/x753/Silksong-FreeCompass). Not only did it give me some ideas about simple mod structure, it also made the compass WAY less irritating while playing to game.
