@@ -30,6 +30,6 @@ This should "just work" as long as you have Silksong installed at the default lo
 
 ## Credits
 
-Thanks to #danatron1 for making [Buttplug Knight](https://github.com/danatron1/ButtplugKnight) in the first place. Please also make Buttplug Song. I really don't want to have to maintain this mod. I'm just doing it for the attention.
+Thanks to [danatron1](https://github.com/danatron1) for making [Buttplug Knight](https://github.com/danatron1/ButtplugKnight) in the first place. Please also make Buttplug Song. I really don't want to have to maintain this mod. I'm just doing it for the attention.
 
-Thanks to @x753 for their [Free Compass Silksong Mod](https://github.com/x753/Silksong-FreeCompass). Not only did it give me some ideas about simple mod structure, it also made the compass WAY less irritating while playing to game.
+Thanks to [x753](https://github.com/x753) for their [Free Compass Silksong Mod](https://github.com/x753/Silksong-FreeCompass). Not only did it give me some ideas about simple mod structure, it also made the compass WAY less irritating while playing to game.
